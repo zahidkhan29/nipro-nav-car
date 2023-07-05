@@ -1,0 +1,81 @@
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #8e8e8e;
+}
+/*header start*/
+header{
+	background-color: #ffffff;
+	padding: 0 0;
+}
+.logo img {
+	width: 220px;
+}
+.menu ul li a{
+   font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 0 40px !important;
+	color: #8e8e8e !important;
+	transform: .33s;
+}
+.menu ul li:last-child a{
+	padding-right: 0px !important;
+
+}
+.menu ul li a:hover{
+   color: black !important;
+}
+.ci_1{
+   margin: auto 0;
+}
+.c_nav{
+	text-transform: uppercase;
+}
+/*header end*/
+/*carousol start*/
+/*.car_c{
+	background-image: url(../image/bg1.jpg);
+   background-repeat: no-repeat;
+   background-position:;
+   background-size:cover;
+}*/
+.cus_c{
+    right: 40%;
+    left: 00%;
+    bottom: 30%;
+    text-align: left;
+}
+.cus_i{
+    left: -92%;
+}
+.cus_i [data-bs-target] {
+    width: 1px;
+    background-color: black !important;
+    height: 15px;
+}
+
+.ci_p{
+     margin: auto 0;
+}
+.car_h2{
+	font-size: 60px;
+	font-weight: 700;
+	color: white;
+}
+.car_p{
+	font-family: 'roboto', sans-serif;
+	font-weight: 400;
+	padding: 50px 0;
+	color: white;
+}
+.car_p2{
+	font-family: 'roboto', sans-serif;
+	color: black;
+   padding: 10px 30px ;
+	background-color: white;
+	
+}
+
+/*carousol end*/
